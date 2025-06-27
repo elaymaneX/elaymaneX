@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ML and doing my final project of my Bachelor
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  aelamra22@gmail.com 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I studies CS but i shower twice a day
 
 <!---
