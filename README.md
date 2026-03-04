@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elaymaneX
-- 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning ML and doing my final project of my Bachelor
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:  aelamra22@gmail.com 
+- 👀 I’m interested in ML, AI & Quantum Computing.
+- 🌱 I'm currently doing my internship at a research lab developing pioneering AI technology for the medical field, while working in parallel on some automation projects.
+- 💞️ I’m willing to collaborate on different types of projects related to AI, ML and Quantum Science.
+- 📫 How to reach me:  aelamra25@gmail.com 
 - ⚡ Fun fact: I studies CS but i shower twice a day
 
 <!---
