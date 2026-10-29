@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://elamaymane.dev">🌐 Portfolio</a> · 
+  <a href="https://aymaneelam.dev">🌐 Portfolio</a> · 
   <a href="https://linkedin.com/in/elam-aymane">💼 LinkedIn</a> · 
   <a href="mailto:aelamra25@gmail.com">✉️ Email</a>
 </p>
@@ -68,6 +68,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/elam-aymane"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://elamaymane.dev"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://aymaneelam.dev"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="mailto:aelamra25@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
